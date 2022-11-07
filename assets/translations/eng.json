@@ -1,0 +1,13 @@
+{
+  "regis": "Register",
+  "fio": "Full name",
+  "user": "Username",
+  "mail": "Email",
+  "phone": "Phone number",
+  "passw": "Password",
+  "acc": "Already have an account?",
+  "dalee": "NEXT",
+  "voiti": "Login",
+  "login": "Login",
+  "accno": "Don't have an account?"
+}
