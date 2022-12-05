@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501832254175",
+    "project_id": "adiletflutter",
+    "storage_bucket": "adiletflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501832254175:android:d5256dacd7d783060c9f6a",
+        "android_client_info": {
+          "package_name": "com.example.adiletproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501832254175-sp2trbf765eqgqbop6tvnrcca0fknocc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-G4r54XnlnEslHAghqVq-XNt23BYiUt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501832254175-sp2trbf765eqgqbop6tvnrcca0fknocc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
